@@ -12,7 +12,8 @@ A simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**.
 - HTML
 - CSS
 - JavaScript
-🚀 How to Run
+  
+##🚀 How to Run
 - Download or clone the repository.
 - Open the index.html file in your browser.
 - Enjoy playing!
